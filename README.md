@@ -4,5 +4,19 @@
   <img src="https://github.com/T-KAO-Trt11762/T-KAO-Trt11762/blob/3dce29075388ce8643abc1b5ed7d46bbe062f753/467110126_1301927267921783_1611316807865412066_n.gif" width="400">
 <p align=><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=800&deleteDelay=1000&color=F7A8C4&center=true&vCenter=true&width=600&height=50&repeat=true&lines=%E2%99%A1+your+eyes+are+like+little+stars+%E2%99%A1" /></p>
 <p align="center">
+  <img src="https://github.com/T-KAO-Trt11762/T-KAO-Trt11762/blob/99a9b1acff1197783f8bb52ee3ad19b921068c26/0f76d063a3fb15f6f0862b980072d283.jpg" width="250">
+</p>
+<p align="center">
   <img src="https://github.com/T-KAO-Trt11762/T-KAO-Trt11762/blob/674278449a88fc440039b531732b5321e2a15ffc/777084332_1441586488020662_6605419653734670712_n.gif" width="420">
+</p>
+<p align="center">
+  <a href="https://rentry.co/">
+    <img src="https://img.shields.io/badge/rentry-9B8AAE?style=for-the-badge">
+  </a>
+  <a href="https://pronouns.cc/">
+    <img src="https://img.shields.io/badge/Ato-9B8AAE?style=for-the-badge">
+  </a>
+  <a href="https://pronouns.cc/">
+    <img src="https://img.shields.io/badge/prns.cc-9B8AAE?style=for-the-badge">
+  </a>
 </p>
