@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/rentry-9B8AAE?style=for-the-badge">
   </a>
   <a href="https://pronouns.cc/">
-    <img src="https://img.shields.io/badge/Ato-9B8AAE?style=for-the-badge">
+    <img src="https://github.com/T-KAO-Trt11762/T-KAO-Trt11762/blob/2b248d4d6392f38fdbffa2c8e354ebc85bed9989/1bb24015deb46f7edf7af33bdb8e24b7.jpg">
   </a>
   <a href="https://pronouns.cc/">
     <img src="https://img.shields.io/badge/prns.cc-9B8AAE?style=for-the-badge">
